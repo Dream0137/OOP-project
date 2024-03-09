@@ -6,7 +6,7 @@
   * id:66114540520
   * name:นายภาณุพงศ์ วิเศษชลธาร
 
-## technology: [pygame/streamlit]
+## technology: [streamlit]
 
 ## application description:
 รายละเอียดโครงงาน
