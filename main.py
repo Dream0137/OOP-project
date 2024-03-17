@@ -33,3 +33,9 @@ with cols[1]:
 if st.button("คำนวณ"):
     air_pressure_needed = calculate_air_pressure(tire_size, vehicle_weight)
     st.write(f"ค่าลมยางที่ต้องใช้: {air_pressure_needed} psi")
+
+st.markdown("""
+  ### คำแนะนำ
+  - ขนาดยาง (หน่วย: นิ้ว)
+  - น้ำหนักของรถ (หน่วย: กิโลกรัม)
+  """)
