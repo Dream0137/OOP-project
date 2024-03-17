@@ -9,7 +9,7 @@
 ## technology: [streamlit]
 
 ## application description:
-รายละเอียดโครงงาน
+เป็น website สำหรับคำนวณในการเติมลมยางเพื่อจุดประสงค์ในการขนสิ่งของตามน้ำหนักและขนาดของอย่างอย่างเหมาะสม
 
 ## presentation:
 [slide/canva/etc..] link [public/ubu]
