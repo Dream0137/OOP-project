@@ -11,7 +11,7 @@
 เป็นแอพพลิเคชั่น Streamlit สำหรับใช้ในการหาขนาดของยาง
 
 ## presentation:
-https://www.canva.com/design/DAF_zKJZM_8/km8yPf9BeOe8WIPTCVOcEg/edit?utm_content=DAF_zKJZM_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAF_zKJZM_8/5KOhqVt3jYfKZeYDCBCwRw/view?utm_content=DAF_zKJZM_8&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## video:
 link [public/ubu]
