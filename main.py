@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import base64
 
-bg_image_path = "R.jpg"
+bg_image_path = "R1.jpg"
 with open(bg_image_path, "rb") as img_file:
     bg_image = img_file.read()
 bg_image_base64 = base64.b64encode(bg_image).decode()
