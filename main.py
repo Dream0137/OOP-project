@@ -12,6 +12,12 @@ page_bg_img = f'''
             background-image: url("data:image/jpg;base64,{bg_image_base64}");
             background-size: cover;
         }}
+        .answer-frame {{
+            padding: 20px;
+            border: 2px solid #0071BC; /* สีขอบ */
+            border-radius: 10px;
+            background-color: #EDEDED; /* สีพื้นหลัง */
+        }}
     </style>
 '''
 
