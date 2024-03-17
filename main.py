@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import base64
 
-bg_image_path = "aleksandr-sidelnikov-1.jpg"
+bg_image_path = "R.jpg"
 with open(bg_image_path, "rb") as img_file:
     bg_image = img_file.read()
 bg_image_base64 = base64.b64encode(bg_image).decode()
@@ -11,12 +11,6 @@ page_bg_img = f'''
         .stApp {{
             background-image: url("data:image/jpg;base64,{bg_image_base64}");
             background-size: cover;
-        }}
-        .answer-frame {{
-            padding: 20px;
-            border: 2px solid #0071BC; /* สีขอบ */
-            border-radius: 10px;
-            background-color: #EDEDED; /* สีพื้นหลัง */
         }}
     </style>
 '''
