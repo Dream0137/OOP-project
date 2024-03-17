@@ -31,8 +31,8 @@ aspect_ratio = st.number_input("อัตราส่วนความสูง
 rim_diameter = st.number_input("เส้นผ่านศูนย์กลางยาง (นิ้ว)", min_value=1)
 
 if st.button("คำนวณ"):
-    air_pressure_needed = calculate_air_pressure(tire_size, vehicle_weight)
-    st.write(f"ค่าลมยางที่ต้องใช้: {air_pressure_needed} psi")
+    air_pressure_needed = calculate_air_pressure(tire_width, aspect_ratio, rim_diameter)
+    st.write(f"ค่าลมยางที่ต้องใช้: {air_pressure_needed:.2f} psi")
 
 st.markdown("""
   ### คำแนะนำ
