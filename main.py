@@ -18,7 +18,8 @@ page_bg_img = f'''
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
 def calculate_tire_size(W, S, d):
-    D = (W * (S/100 * 2)) + d
+    d_mm = d * 25.4  # แปลงหน่วยจากนิ้วเป็นมิลลิเมตร
+    D = (W * (S/100 * 2)) + d_mm
     return D
 
 # UI
