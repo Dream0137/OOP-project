@@ -1,6 +1,6 @@
 # OOPproject
 
-## Air Pressure Calculate
+## Tire Size Calculate
 ## author: 
   * id:66114540520
   * name:นายภาณุพงศ์ วิเศษชลธาร
@@ -8,10 +8,10 @@
 ## technology: [streamlit]
 
 ## application description:
-รายละเอียดโครงงาน
+เป็นแอพพลิเคชั่น Streamlit สำหรับใช้ในการหาขนาดของยาง
 
 ## presentation:
-[slide/canva/etc..] link [public/ubu]
+https://www.canva.com/design/DAF_zKJZM_8/km8yPf9BeOe8WIPTCVOcEg/edit?utm_content=DAF_zKJZM_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## video:
 link [public/ubu]
